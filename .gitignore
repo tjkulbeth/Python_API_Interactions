@@ -1,0 +1,11 @@
+#api_key
+api_keys.py
+
+#checkpoints
+.ipynb_checkpoints
+
+# Cache
+__pycache__
+
+#Starter file
+WeatherPy.ipynb
